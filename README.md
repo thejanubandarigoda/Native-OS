@@ -1,5 +1,8 @@
 # 🧠 AI-OS (Bare-Metal Rust Operating System)
 
+<img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/17e09094-9055-4f44-b63b-9cbfbb6cb715" />
+
+
 ![Language](https://img.shields.io/badge/Language-Rust-orange.svg)
 ![Target](https://img.shields.io/badge/Target-x86__64--unknown--none-blue.svg)
 ![Environment](https://img.shields.io/badge/Environment-QEMU-green.svg)
